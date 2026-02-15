@@ -72,6 +72,7 @@ Through this project, I strengthened my understanding of **Java programming**, *
 ---
 
 ## 🚦 Running the Project
-1. Clone or download the repository:  
-   ```bash
-   git clone https://github.com/username/soundsketcher-app.git
+1. Clone or download the repository
+2. Copy files into your chosen IDE
+3. Run
+   
