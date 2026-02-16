@@ -66,4 +66,4 @@ Through this project, I strengthened my understanding of **Java programming**, *
 
 Watch a short demo of the Image Processor App in action:
 
-[![Image Processor Demo](https://https://youtube.com/shorts/AdYmAXcGTdI/0.jpg)](https://youtube.com/shorts/AdYmAXcGTdI)
+[![Image Processor Demo](https://youtube.com/shorts/UdA0dkv-v2Y/0.jpg)](https://youtube.com/shorts/UdA0dkv-v2Y)
