@@ -8,34 +8,20 @@ The **SoundSketcher App** is a Java-based application that allows users to creat
 - **Java** – Core programming language for the application  
 - **Swing** – GUI framework for building the interactive interface  
 - **Java Sound API / javax.sound.sampled** – For audio processing and playback  
-- **Maven/Gradle (if used)** – For project build and dependency management  
 
 ---
 
 ## 🚀 Features
-- Load and play audio files (WAV, MP3, etc.)  
-- Record audio directly through the microphone  
-- Apply audio effects such as:  
-  - Echo  
-  - Reverb  
-  - Pitch shift  
+- Create audio through notes
+- Adjust volume
+- Loop track
+- Copy and paste notes
+- Change Tempo
+- Alter duration
 - Mix multiple audio tracks  
 - Save edited audio clips  
 - Real-time preview of effects  
 - Intuitive GUI for easy navigation  
-
----
-
-## ✨ Shortcuts / Controls
-| Action | Shortcut / Button |
-|--------|----------------|
-| Open Audio | File → Open |
-| Record Audio | File → Record |
-| Play / Pause | Spacebar or Play Button |
-| Apply Echo | Effects → Echo |
-| Apply Reverb | Effects → Reverb |
-| Apply Pitch Shift | Effects → Pitch Shift |
-| Save Audio | File → Save |
 
 ---
 
@@ -76,3 +62,8 @@ Through this project, I strengthened my understanding of **Java programming**, *
 2. Copy files into your chosen IDE
 3. Run
    
+## ▶️ Video Demonstration
+
+Watch a short demo of the Image Processor App in action:
+
+[![Image Processor Demo](https://img.youtube.com/vi/nv7g9FYWB9k/0.jpg)](https://youtu.be/nv7g9FYWB9k)
