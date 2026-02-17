@@ -64,6 +64,6 @@ Through this project, I strengthened my understanding of **Java programming**, *
    
 ## ▶️ Video Demonstration
 
-Watch a short demo of the Image Processor App in action:
+Watch a short demo of the Sound Sketcher App in action:
 
-[![Image Processor Demo](https://youtube.com/shorts/UdA0dkv-v2Y/0.jpg)](https://youtube.com/shorts/UdA0dkv-v2Y)
+[![Sounds Sketcher Demo](https://youtube.com/shorts/UdA0dkv-v2Y/0.jpg)](https://youtube.com/shorts/UdA0dkv-v2Y)
